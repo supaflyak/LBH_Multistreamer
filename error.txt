@@ -1,0 +1,435 @@
+Error at 2020 02 04, 15:35:46
+Stream Name: <__main__.StreamEntry object at 0x0000018473CA8A20>Live Shark Cam - Monterey Bay Aquarium
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 97, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:35:53
+Stream Name: <__main__.StreamEntry object at 0x00000184730A8278>KC Zoo Penguin Cam
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 97, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:36:01
+Stream Name: <__main__.StreamEntry object at 0x00000184730B51D0>Kitten Academy Live Stream
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 97, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:36:08
+Stream Name: <__main__.StreamEntry object at 0x00000184723D40F0>KC Zoo Penguin Cam
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 97, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:36:15
+Stream Name: <__main__.StreamEntry object at 0x00000184730A1C18>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 97, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:36:23
+Stream Name: <__main__.StreamEntry object at 0x0000018473C5DA20>KC Zoo Penguin Cam
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 97, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:36:30
+Stream Name: <__main__.StreamEntry object at 0x00000184730A3320>Tiger Lake - Big Cat Rescue powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 97, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:36:38
+Stream Name: <__main__.StreamEntry object at 0x00000184730A6780>Live Shark Cam - Monterey Bay Aquarium
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 97, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:37:18
+Stream Name: <__main__.StreamEntry object at 0x00000202FB8AC860>Kitten Academy Live Stream
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:37:21
+Stream Name: <__main__.StreamEntry object at 0x00000202FB8AC860>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:38:08
+Stream Name: <__main__.StreamEntry object at 0x000002955B01AB70>KC Zoo Penguin Cam
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:38:10
+Stream Name: <__main__.StreamEntry object at 0x000002955B01AB70>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:38:12
+Stream Name: <__main__.StreamEntry object at 0x000002955BC79208>Decorah Eagles powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:38:14
+Stream Name: <__main__.StreamEntry object at 0x000002955D4ACD30>Puppy Playroom at Warrior Canine Connection powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:38:56
+Stream Name: <__main__.StreamEntry object at 0x0000022604F43160>Decorah Eagles powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:38:59
+Stream Name: <__main__.StreamEntry object at 0x0000022604F43160>Kitten Academy Live Stream
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:01
+Stream Name: <__main__.StreamEntry object at 0x0000022604F43160>KC Zoo Penguin Cam
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:03
+Stream Name: <__main__.StreamEntry object at 0x0000022605C03CF8>Tiger Lake - Big Cat Rescue powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:05
+Stream Name: <__main__.StreamEntry object at 0x000002260674D6D8>Puppy Playroom at Warrior Canine Connection powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:07
+Stream Name: <__main__.StreamEntry object at 0x0000022605BFFB70>Kitten Academy Live Stream
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:09
+Stream Name: <__main__.StreamEntry object at 0x0000022606803E10>Live Shark Cam - Monterey Bay Aquarium
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:11
+Stream Name: <__main__.StreamEntry object at 0x0000022604EC3748>Decorah Eagles powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:13
+Stream Name: <__main__.StreamEntry object at 0x0000022605BFFA20>Live Shark Cam - Monterey Bay Aquarium
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:15
+Stream Name: <__main__.StreamEntry object at 0x0000022604F00E10>Puppy Playroom at Warrior Canine Connection powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:17
+Stream Name: <__main__.StreamEntry object at 0x000002260674D518>Live Streaming Chicken 🐓 Coop Cam - Where YOU Can Feed Us Online! - Wildlife Nature Camera
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:19
+Stream Name: <__main__.StreamEntry object at 0x0000022606803CF8>Tiger Lake - Big Cat Rescue powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:39:21
+Stream Name: <__main__.StreamEntry object at 0x0000022604F030F0>KC Zoo Penguin Cam
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:43:51
+Stream Name: <__main__.StreamEntry object at 0x000002D3870D5160>Decorah Eagles powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:43:53
+Stream Name: <__main__.StreamEntry object at 0x000002D38854CDD8>Kitten Academy Live Stream
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:43:55
+Stream Name: <__main__.StreamEntry object at 0x000002D3885575F8>Decorah Eagles powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:43:57
+Stream Name: <__main__.StreamEntry object at 0x000002D387CC2828>Live Shark Cam - Monterey Bay Aquarium
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:44:00
+Stream Name: <__main__.StreamEntry object at 0x000002D3870D5320>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:44:02
+Stream Name: <__main__.StreamEntry object at 0x000002D387C94A90>Kitten Academy Live Stream
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:44:04
+Stream Name: <__main__.StreamEntry object at 0x000002D387C79E10>Tiger Lake - Big Cat Rescue powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:44:06
+Stream Name: <__main__.StreamEntry object at 0x000002D38648C2B0>Kitten Academy Live Stream
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:44:09
+Stream Name: <__main__.StreamEntry object at 0x000002D38648C2B0>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:44:11
+Stream Name: <__main__.StreamEntry object at 0x000002D387BFF2B0>Live Streaming Chicken 🐓 Coop Cam - Where YOU Can Feed Us Online! - Wildlife Nature Camera
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:44:13
+Stream Name: <__main__.StreamEntry object at 0x000002D38854CDD8>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:45:13
+Stream Name: <__main__.StreamEntry object at 0x000002750BF60A20>KC Zoo Penguin Cam
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:45:15
+Stream Name: <__main__.StreamEntry object at 0x000002750D85BDD8>Kitten Academy Live Stream
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:45:17
+Stream Name: <__main__.StreamEntry object at 0x000002750D7CD390>Live Streaming Chicken 🐓 Coop Cam - Where YOU Can Feed Us Online! - Wildlife Nature Camera
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:45:20
+Stream Name: <__main__.StreamEntry object at 0x000002750CC7F710>Puppy Playroom at Warrior Canine Connection powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:45:22
+Stream Name: <__main__.StreamEntry object at 0x000002750E13CC18>Kitten Academy Live Stream
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:45:24
+Stream Name: <__main__.StreamEntry object at 0x000002750CC87828>Live Shark Cam - Monterey Bay Aquarium
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:48:14
+Stream Name: <__main__.StreamEntry object at 0x0000023EC68840F0>Tiger Lake - Big Cat Rescue powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:52:48
+Stream Name: <__main__.StreamEntry object at 0x0000023C19857400>Tiger Lake - Big Cat Rescue powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:58:00
+Stream Name: <__main__.StreamEntry object at 0x000001EC5CF940F0>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:58:02
+Stream Name: <__main__.StreamEntry object at 0x000001EC5F0E3278>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:58:04
+Stream Name: <__main__.StreamEntry object at 0x000001EC5DC51898>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 15:58:06
+Stream Name: <__main__.StreamEntry object at 0x000001EC5E79D7F0>Live Shark Cam - Monterey Bay Aquarium
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 16:00:20
+Stream Name: <__main__.StreamEntry object at 0x00000239C58A3B38>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 16:00:29
+Stream Name: <__main__.StreamEntry object at 0x00000239C4156630>Live Streaming Chicken 🐓 Coop Cam - Where YOU Can Feed Us Online! - Wildlife Nature Camera
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 16:00:32
+Stream Name: <__main__.StreamEntry object at 0x00000239C4318048>KC Zoo Penguin Cam
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 16:00:34
+Stream Name: <__main__.StreamEntry object at 0x00000239C5802550>Live Streaming Chicken 🐓 Coop Cam - Where YOU Can Feed Us Online! - Wildlife Nature Camera
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 16:00:36
+Stream Name: <__main__.StreamEntry object at 0x00000239C57B9320>Puppy Playroom at Warrior Canine Connection powered by EXPLORE.org
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 16:00:38
+Stream Name: <__main__.StreamEntry object at 0x00000239C58A85C0>Live Streaming Chicken 🐓 Coop Cam - Where YOU Can Feed Us Online! - Wildlife Nature Camera
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 16:00:40
+Stream Name: <__main__.StreamEntry object at 0x00000239C4156C18>Live Shark Cam - Monterey Bay Aquarium
+<class 'NameError'>
+name 'time0' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 96, in play_stream
+    if time0 == time1 and datetime.now() - timeout_timer < timedelta(seconds=10):
+
+name 'time0' is not definedError at 2020 02 04, 16:13:45
+Stream Name: <__main__.StreamEntry object at 0x0000018BB3FC03C8>Kitten Academy Live Stream
+<class 'NameError'>
+name 'media_get_time' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 101, in play_stream
+    if media_time == media_get_time():
+
+name 'media_get_time' is not definedError at 2020 02 04, 16:13:47
+Stream Name: <__main__.StreamEntry object at 0x0000018BB4BBFA58>KC Zoo Penguin Cam
+<class 'NameError'>
+name 'media_get_time' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 101, in play_stream
+    if media_time == media_get_time():
+
+name 'media_get_time' is not definedError at 2020 02 04, 16:13:49
+Stream Name: <__main__.StreamEntry object at 0x0000018BB3B04748>Alligator and Spoonbill Swamp Cam powered by EXPLORE.org
+<class 'NameError'>
+name 'media_get_time' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 101, in play_stream
+    if media_time == media_get_time():
+
+name 'media_get_time' is not definedError at 2020 02 04, 16:13:51
+Stream Name: <__main__.StreamEntry object at 0x0000018BB4B93908>KC Zoo Penguin Cam
+<class 'NameError'>
+name 'media_get_time' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 101, in play_stream
+    if media_time == media_get_time():
+
+name 'media_get_time' is not definedError at 2020 02 04, 16:13:53
+Stream Name: <__main__.StreamEntry object at 0x0000018BB3FC73C8>Decorah Eagles powered by EXPLORE.org
+<class 'NameError'>
+name 'media_get_time' is not defined
+  File "N:/temp/LBH/codeBase/lbh.py", line 101, in play_stream
+    if media_time == media_get_time():
+
+name 'media_get_time' is not defined
